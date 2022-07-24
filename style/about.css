@@ -1,0 +1,46 @@
+.box{
+    border-radius: 16px;
+    background: #FFD8C7;
+    width: 470px;
+    height: 504px;
+    margin: 42px 200px 170px 175px;
+}
+
+.box img{
+    padding: 46px 41px 0px 41px;
+    display: block;
+}
+
+.about{
+    display: flex;
+    margin-top: 30px;
+
+}
+
+.text-about{
+    margin: 100px 212px 228px 0px;
+    padding-right: 30px;
+
+}
+
+.text h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+}
+
+.text-about p{
+    margin-top: 38px ;
+    margin-bottom: 16px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #695D57;
+    
+}
